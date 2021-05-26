@@ -8,7 +8,7 @@
 https://colab.research.google.com/github/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/streamlit_notebooks/NER.ipynb#scrollTo=CGJktFHdHL1n
 
 
-## 1번쨰 review
+## 1번째 review
 
 1. B I 합쳐서 점수 평가 통일
 2. 에포크 충분한지 판단해서 결정하기 (loss graph 확인하면서, validation loss)
